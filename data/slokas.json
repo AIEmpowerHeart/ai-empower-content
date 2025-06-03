@@ -1,0 +1,48 @@
+{
+  "categories": [
+    {
+      "id": "wisdom",
+      "name": "Ancient Wisdom", 
+      "description": "Timeless spiritual teachings for modern souls"
+    },
+    {
+      "id": "peace",
+      "name": "Inner Peace",
+      "description": "Verses that bring tranquility and calm"
+    },
+    {
+      "id": "prosperity",
+      "name": "Spiritual Prosperity",
+      "description": "Abundance in mind, body, and spirit"
+    }
+  ],
+  "slokas": [
+    {
+      "id": "1",
+      "sanskrit": "सर्वे भवन्तु सुखिनः सर्वे सन्तु निरामयाः",
+      "transliteration": "Sarve bhavantu sukhinah sarve santu niramayah",
+      "translation": "May all beings be happy, may all beings be free from illness",
+      "category": "wisdom",
+      "meaning": "A universal prayer for the wellbeing of all living beings",
+      "source": "Brihadaranyaka Upanishad"
+    },
+    {
+      "id": "2", 
+      "sanskrit": "शान्ति शान्ति शान्तिः",
+      "transliteration": "Shanti shanti shantih",
+      "translation": "Peace, peace, peace",
+      "category": "peace",
+      "meaning": "A powerful mantra invoking peace on all levels - physical, mental, and spiritual",
+      "source": "Vedic Tradition"
+    },
+    {
+      "id": "3",
+      "sanskrit": "वसुधैव कुटुम्बकम्",
+      "transliteration": "Vasudhaiva Kutumbakam",
+      "translation": "The world is one family",
+      "category": "wisdom",
+      "meaning": "The entire world is one single family, promoting unity and universal brotherhood",
+      "source": "Maha Upanishad"
+    }
+  ]
+}
