@@ -1,0 +1,57 @@
+{
+  "categories": [
+    {
+      "id": "daily",
+      "name": "Daily Wisdom",
+      "description": "Practical spiritual guidance for everyday life"
+    },
+    {
+      "id": "ancient",
+      "name": "Ancient Teachings", 
+      "description": "Timeless wisdom from sacred texts"
+    },
+    {
+      "id": "modern",
+      "name": "Modern Insights",
+      "description": "Contemporary spiritual understanding"
+    }
+  ],
+  "teachings": [
+    {
+      "id": "1",
+      "title": "The Power of Present Moment",
+      "category": "daily",
+      "author": "Vedic Wisdom",
+      "quote": "The present moment is the only time over which we have dominion",
+      "explanation": "True peace and power are found when we anchor ourselves fully in the now, releasing attachment to past regrets and future anxieties.",
+      "practicalTip": "Take three conscious breaths whenever you feel scattered, bringing your awareness back to this moment."
+    },
+    {
+      "id": "2",
+      "title": "Inner Light Recognition",
+      "category": "ancient",
+      "author": "Upanishads",
+      "quote": "You are the light of the world. Let your light shine before all beings",
+      "explanation": "Each soul carries divine light within. Recognizing this truth transforms how we see ourselves and others.",
+      "practicalTip": "Begin each day by acknowledging your inner divine nature through meditation or prayer."
+    },
+    {
+      "id": "3",
+      "title": "Unity in Diversity",
+      "category": "modern",
+      "author": "Universal Truth",
+      "quote": "In the garden of humanity, every soul is a unique flower contributing to the beautiful whole",
+      "explanation": "Spiritual growth comes from celebrating our differences while recognizing our fundamental interconnectedness.",
+      "practicalTip": "Practice seeing the divine spark in every person you encounter today."
+    },
+    {
+      "id": "4",
+      "title": "Compassionate Action",
+      "category": "daily",
+      "author": "Heart Wisdom",
+      "quote": "Small acts of love create ripples of healing that reach far beyond what we can see",
+      "explanation": "Every compassionate action, no matter how small, contributes to the healing and upliftment of the collective consciousness.",
+      "practicalTip": "Offer one genuine act of kindness each day, expecting nothing in return."
+    }
+  ]
+}
